@@ -53,11 +53,6 @@ The CLI component allows users to interact with the quiz via the command line.
 
 API handlers for serving questions and receiving answers.
 
-#### How to Run
-1. Navigate to the `/api` directory.
-2. Build the handlers binary: `go build -o handlers.exe`
-3. Run the handlers: `./handlers.exe`
-
 ### Data Models
 
 Data models for representing questions and quizzes.
